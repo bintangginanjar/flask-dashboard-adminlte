@@ -37,6 +37,8 @@ $ # app is running on port 5000
 
 If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** app running, by visiting **localhost:5000** in your preferred browser. 
 
+<br />
+
 ## Dashboard Resources
 
 - [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Official Product Page
@@ -58,6 +60,8 @@ If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/
 
 **[Flask](https://palletsprojects.com/p/flask/)** ([source code](https://github.com/pallets/flask)) is a Python web framework built with a small core and modularity in mind. With a small footprint, well documented and supported by a growing community, Flask can be a good choice to implement on top a nice production-ready apps, landing pages and complex eCommerce services. For more information, feel free to access the **official website**.
 
+<br />
+
 ### Related Articles
 
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
@@ -65,6 +69,8 @@ If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
 - [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
+
+<br />
 
 ---
 [Flask Dashboard AdminLTE](https://admin-dashboards.com/flask-dashboard-adminlte) - provided by **Admin-Dashboards.com**
